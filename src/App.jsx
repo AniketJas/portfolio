@@ -2,12 +2,13 @@ import Navbar from "./sections/Navbar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Education from "./sections/Education";
-// import { useEffect } from "react";
+import TeckStack from "./sections/TeckStack";
+import { useEffect } from "react";
 
 function App() {
-  // useEffect(() => {
-  // window.history.scrollRestoration = "manual";
-  // }, []);
+  useEffect(() => {
+    window.history.scrollRestoration = "manual";
+  }, []);
 
   return (
     <>
@@ -22,6 +23,10 @@ function App() {
       </div>
       <div id="education">
         <Education />
+      </div>
+
+      <div id="tech-stack">
+        <TeckStack />
       </div>
     </>
   );

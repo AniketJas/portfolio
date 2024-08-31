@@ -6,6 +6,13 @@
     scroll-behavior: smooth;
 }
 
+.bgclass {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
 .suse-title {
     font-family: "SUSE", sans-serif;
     font-optical-sizing: auto;

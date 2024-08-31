@@ -1,13 +1,14 @@
 import ResumeButton from "../components/ResumeButton";
+import bg from "../images/bg.jpg";
 
 export default function Hero() {
   return (
-    <div className="flex justify-center items-center bg-slate-700 h-screen">
+    <div className="bgclass flex justify-center items-center h-screen pt-24">
       <div className="text-center">
         <p className="text-8xl mb-6 text-white suse-title">
           Hi, I&apos;m Aniket Jas
         </p>
-        <p className="text-8xl text-white suse-title mb-6   ">
+        <p className="text-8xl text-white suse-title mb-6">
           Full-stack Web Developer
         </p>
         <div className="flex justify-center">
