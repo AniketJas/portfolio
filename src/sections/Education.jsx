@@ -3,7 +3,7 @@ import collegepic from "../images/collegelogo.png";
 
 export default function Education() {
   return (
-    <div className="pt-32 px-16 mb-16">
+    <div className="pt-24 px-16 mb-16">
       <p className="raleway-bold text-blue-900 text-4xl">Education</p>
       <div className="w-full h-1 rounded-sm bg-gray-500 my-6 mb-8"></div>
       <div>

@@ -4,6 +4,7 @@ import About from "./sections/About";
 import Education from "./sections/Education";
 import TeckStack from "./sections/TeckStack";
 import { useEffect } from "react";
+import Projects from "./sections/Projects";
 
 function App() {
   useEffect(() => {
@@ -24,9 +25,11 @@ function App() {
       <div id="education">
         <Education />
       </div>
-
       <div id="tech-stack">
         <TeckStack />
+      </div>
+      <div id="projects">
+        <Projects />
       </div>
     </>
   );

@@ -1,5 +1,4 @@
 import ResumeButton from "../components/ResumeButton";
-import bg from "../images/bg.jpg";
 
 export default function Hero() {
   return (

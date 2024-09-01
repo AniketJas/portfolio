@@ -7,7 +7,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="flex items-center bg-white h-18 px-12">
+    <div className="flex items-center bg-white h-18 px-12 shadow-md">
       <div className="w-1/3">
         <button onClick={() => handleClick("hero")}>
           <img src={logo} className="h-16" />

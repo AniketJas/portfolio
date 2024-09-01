@@ -2,7 +2,7 @@ import photo from "../images/photo.jpg";
 
 export default function About() {
   return (
-    <div className="h-screen pt-32 px-16">
+    <div className=" pt-24 px-16">
       <p className="raleway-bold text-blue-900 text-4xl">About Me</p>
       <div className="w-full h-1 rounded-sm bg-gray-500 my-6"></div>
       <div className="flex">
