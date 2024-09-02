@@ -20,7 +20,7 @@ export default function Navbar() {
         <button onClick={() => handleClick("projects")}>Projects</button>
         <button onClick={() => handleClick("contact-me")}>Contact Me</button>
 
-        <div className="px-4 py-2 bg-black text-white rounded-lg font-normal">
+        <div className="px-4 py-2 bg-gray-800 text-white hover:bg-black rounded-lg font-normal">
           <ResumeButton />
         </div>
       </div>

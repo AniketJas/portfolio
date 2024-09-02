@@ -1,10 +1,11 @@
+import { useEffect } from "react";
 import Navbar from "./sections/Navbar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Education from "./sections/Education";
 import TeckStack from "./sections/TeckStack";
-import { useEffect } from "react";
 import Projects from "./sections/Projects";
+import ContactMe from "./sections/ContactMe";
 
 function App() {
   useEffect(() => {
@@ -30,6 +31,9 @@ function App() {
       </div>
       <div id="projects">
         <Projects />
+      </div>
+      <div id="contact-me">
+        <ContactMe />
       </div>
     </>
   );
