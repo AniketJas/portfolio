@@ -1,4 +1,5 @@
 import ResumeButton from "../components/ResumeButton";
+import Social from "../components/Social";
 
 export default function Hero() {
   return (
@@ -14,6 +15,9 @@ export default function Hero() {
           <div className="w-48 px-8 py-4 text-center bg-gray-800 hover:bg-black text-white rounded-xl text-lg">
             <ResumeButton />
           </div>
+        </div>
+        <div className="flex justify-center mt-8">
+          <Social />
         </div>
       </div>
     </div>
