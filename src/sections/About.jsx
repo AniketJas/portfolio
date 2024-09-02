@@ -5,8 +5,14 @@ export default function About() {
     <div className=" pt-24 px-16">
       <p className="raleway-bold text-blue-900 text-4xl">About Me</p>
       <div className="w-full h-1 rounded-sm bg-gray-500 my-6"></div>
-      <div className="flex">
-        <div className="w-1/2 py-12 px-12">
+      <div className="lg:flex lg:flex-row-reverse">
+        <div className="lg:w-1/2 flex justify-center items-center">
+          <img
+            src={photo}
+            className="rounded-3xl h-72 shadow-lg border border-gray-500"
+          />
+        </div>
+        <div className="lg:w-1/2 py-12 px-12">
           <p className="work-sans-regular text-2xl">
             Hii, I'm Aniket Jas, a self-taught frontend/full-stack web developer
             with experience in designing new features from ideation to
@@ -17,9 +23,6 @@ export default function About() {
             my projects, which I like to accompany from the first idea to
             release.Currently, I'm focused on the backend development.
           </p>
-        </div>
-        <div className="w-1/2 flex justify-center items-center">
-          <img src={photo} className="rounded-3xl h-72" />
         </div>
       </div>
     </div>
