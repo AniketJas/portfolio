@@ -1,5 +1,4 @@
 import info from "../educationlogos.json";
-import schoolpic from "../../public/kps.png";
 import EducationBox from "../components/EducationBox";
 
 export default function Education() {

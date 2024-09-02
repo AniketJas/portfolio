@@ -3,77 +3,77 @@
         { 
             "id":1,
             "key":"C++",
-            "val":"cpp.png"
+            "val":"cpp.webp"
         },
         { 
             "id":2,
             "key":"Java",
-            "val":"java.png"
+            "val":"java.webp"
         },
         { 
             "id":3,
             "key":"React.js",
-            "val":"react.png"
+            "val":"react.webp"
         },
         { 
             "id":4,
             "key":"NodeJS",
-            "val":"node.png"
+            "val":"node.webp"
         },
         { 
             "id":5,
             "key":"Express",
-            "val":"express.png"
+            "val":"express.webp"
         },
         { 
             "id":6,
             "key":"HTML",
-            "val":"html.png"
+            "val":"html.webp"
         },
         { 
             "id":7,
             "key":"CSS",
-            "val":"css.png"
+            "val":"css.webp"
         },
         { 
             "id":8,
             "key":"Javascript",
-            "val":"js.png"
+            "val":"js.webp"
         },
         { 
             "id":9,
             "key":"Tailwind CSS",
-            "val":"tailwind.png"
+            "val":"tailwind.webp"
         },
         { 
             "id":10,
             "key":"Bootstrap",
-            "val":"bootstrap.png"
+            "val":"bootstrap.webp"
         },
         { 
             "id":11,
             "key":"Postman",
-            "val":"postman.png"
+            "val":"postman.webp"
         },
         { 
             "id":12,
             "key":"PHP",
-            "val":"php.png"
+            "val":"php.webp"
         },
         { 
             "id":14,
             "key":"MongoDB",
-            "val":"mongodb.png"
+            "val":"mongodb.webp"
         },
         { 
             "id":15,
             "key":"MySQL",
-            "val":"mysql.png"
+            "val":"mysql.webp"
         },
         { 
             "id":16,
             "key":"Git/Github",
-            "val":"github.png"
+            "val":"github.webp"
         }
     ]
 }
