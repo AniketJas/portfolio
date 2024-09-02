@@ -1,0 +1,29 @@
+{
+    "values":[
+    { 
+        "id":1,
+        "name":"Indian Institute of Technology (Indian School of Mines), Dhanbad",
+        "logo":"iitism.png",
+        "branch": "Computer Science and Engineering",
+        "year":"2023",
+        "grade":5.38
+    },
+    { 
+        "id":2,
+        "name":"Krishna Public School, Bhilai",
+        "logo":"kps.png",
+        "branch": "AISSC(12th) - Maths + Computer Science",
+        "year":"2018",
+        "grade":76
+    },
+    { 
+        "id":3,
+        "name":"Krishna Public School, Bhilai",
+        "logo":"kps.png",
+        "branch": "SSC(10th)",
+        "year":"2016",
+        "grade":9.8
+    }
+    
+]
+}

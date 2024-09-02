@@ -1,0 +1,41 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "pic":"sorting.png",
+            "title":"Sorting Algorithm Visualizer",
+            "desc":"AN ALGORITHM-BASED VISUALIZATION OF DIFFERENT SORTING TECHNIQUES USED FOR DATA STRUCTURES",
+            "github":"https://github.com/AniketJas/sorting-algorithm-visualizer",
+            "website":"https://aniketjas.github.io/sorting-algorithm-visualizer/"
+        },
+        {
+            "id":2,
+            "pic":"hotelbooking.png",
+            "title":"Hotel Booking Website",
+            "desc":"A COMPLETELY FUNCTIONAL HOTEL BOOKING WEBSITE",
+            "github":"https://github.com/AniketJas/hotel-booking-website"
+        },
+        {
+            "id":3,
+            "pic":"bloodbank.png",
+            "title":"Blood Bank Management System",
+            "desc":"Fully functional application for working of a blood bank.",
+            "github":"https://github.com/AniketJas/blood-bank-system"
+        },
+        {
+            "id":4,
+            "pic":"weather.png",
+            "title":"Weather Report Application",
+            "desc":"A WEBSITE SHOWING WEATHER DATA USING OPENWEATHER API",
+            "github":"https://github.com/AniketJas/weather_app_react"
+        },
+        {
+            "id":5,
+            "pic":"tictactoe.png",
+            "title":"Tic-tac-toe Game",
+            "desc":"Tic-Tac-Toe is a 2-player game involvign 3x3 grid and two symbols, namely 'X' and 'O'. Player who gets one side of grid complete, horizontally, vertically or diagonally wins.",
+            "github":"https://github.com/AniketJas/tic-tac-toe",
+            "website":"https://aniketjas.github.io/tic-tac-toe/"
+        }
+    ]
+}
