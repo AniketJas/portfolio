@@ -2,7 +2,11 @@ export default function ProjectBox({ pic, title, desc, github, website }) {
   return (
     <div className="border border-gray-500 shadow-lg rounded-xl">
       <div>
-        <img src={"/projectsnap/" + pic} alt="" className="rounded-t-xl" />
+        <img
+          src={"portfolio/projectsnap/" + pic}
+          alt=""
+          className="rounded-t-xl"
+        />
       </div>
       <div className="p-4">
         <p className="text-2xl raleway-bold mb-4">{title}</p>
